@@ -5,8 +5,11 @@ conhecimento e as vezes fazer algumas edições de imagens. Você encontrará ba
 (EN) Hi, i'm Júnior a student of programming, When i'm not studyng im usually playing some games on my empty hours, i like to see some vídeos in youtube to learn new things and sometimes i like to edit images. You will find here a lot of things about me, but for now i'm still learning how to use some fuctions on github. You can expect see new things for here weekly, and thanks for read.
 
 ![1032803 (1)](https://user-images.githubusercontent.com/109985871/181938278-bab2e0cc-5ef4-4bae-98da-67c89b02cf8b.jpg)
->"A Vida sempre foi uma guerra."< | >"The life always have been a war."
+>"Original Photo. | Edited version on my profile pic."
 
+# What you doing now? | O que está fazendo agora? 📚🎮
+### Atualmente estou jogando🎮 league of legends e estudando 📚.
+### For now i'm playing🎮 League of legends and Studying📚.
 
 
 # Status
