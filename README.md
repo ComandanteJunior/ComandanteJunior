@@ -7,6 +7,7 @@ conhecimento e as vezes fazer algumas edições de imagens. Você encontrará ba
 ![1032803 (1)](https://user-images.githubusercontent.com/109985871/181938278-bab2e0cc-5ef4-4bae-98da-67c89b02cf8b.jpg)
 
 
+
 <!--
 **ComandanteJunior/ComandanteJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Stats
+# Status
 
 ![Junior Github Stats](https://github-readme-stats.vercel.app/api?username=ComandanteJunior&count_private=true&show_icons=true&include_all_commits=true)
 
