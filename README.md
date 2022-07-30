@@ -11,9 +11,11 @@ conhecimento e as vezes fazer algumas edições de imagens. Você encontrará ba
 
 # Status
 
-![Junior Github Stats](https://github-readme-stats.vercel.app/api?username=ComandanteJunior&count_private=true&show_icons=true&include_all_commits=true)
+![Junior Github Stats](https://github-readme-stats.vercel.app/api?username=ComandanteJunior&count_private=true&show_icons=true&border_color&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComandanteJunior&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComandanteJunior&hide=TeX&layout=demo&theme=github_dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ComandanteJunior.ComandanteJunior)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ComandanteJunior.ComandanteJunior&theme=github_dark)
 [![Gmail Badge](https://img.shields.io/badge/-ggjuniorj425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggjuniorj425@gmail.com)](mailto:ggjuniorj425@gmail.com)
