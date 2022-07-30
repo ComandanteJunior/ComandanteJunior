@@ -1,4 +1,9 @@
-### Hi there 👋
+# | Bem-vindo ao meu Perfil | Welcome to my profile. |
+(BR) Olá, sou o Júnior um estudante da programação, quando não estou estudando procuro jogar alguns jogos nas horas vagas, ver alguns vídeos para aprimorar meu
+conhecimento e as vezes fazer algumas edições de imagens. Você encontrará bastante coisa pelo meu perfil, mas por agora eu ainda estou aprendendo a usar algumas funções do git. Espere ver coisas novas semanalmente por aqui, e obrigado por ler.
+
+(EN) Hi, i'm Júnior a student of programming, When i'm not studyng im usually playing some games on my empty hours, i like to see some vídeos in youtube to learn new things and sometimes i like to edit images. You will find here a lot of things about me, but for now i'm still learning how to use some fuctions on github. You can expect see new things for here weekly, and thanks for read.
+
 
 <!--
 **ComandanteJunior/ComandanteJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
