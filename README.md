@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Stats
+
+![Junior Github Stats](https://github-readme-stats.vercel.app/api?username=ComandanteJunior&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComandanteJunior&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ComandanteJunior.ComandanteJunior)
+[![Gmail Badge](https://img.shields.io/badge/-ggjuniorj425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggjuniorj425@gmail.com)](mailto:ggjuniorj425@gmail.com)
