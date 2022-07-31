@@ -7,11 +7,11 @@ conhecimento e as vezes fazer algumas edições de imagens. Você encontrará ba
 ![1032803 (1)](https://user-images.githubusercontent.com/109985871/181938278-bab2e0cc-5ef4-4bae-98da-67c89b02cf8b.jpg)
 >"Original Photo. | Edited version on my profile pic."
 
-# What you doing now? | O que está fazendo agora? 📚🎮
-### Atualmente estou jogando🎮 league of legends e estudando 📚.
-### For now i'm playing🎮 League of legends and Studying📚.
-
-
+# Study Progress | Estudo Progresso
+### 1st Period | 1st Periodo [🆗] 
+### 2st Period | 2st Periodo [📚] 
+### 3st Period | 3st Periodo [⌛] 
+### 4st Period | 4st Periodo [⌛] (Last)
 # Status
 
 ![Junior Github Stats](https://github-readme-stats.vercel.app/api?username=ComandanteJunior&count_private=true&show_icons=true&border_color&theme=github_dark)
